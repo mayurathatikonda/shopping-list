@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <name>Shopping List Shopping Item</name>
+        <query_condition/>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-06 18:29:16</sys_created_on>
+        <sys_id>c6af417307ca801011f6fa7f7c1ed060</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping List Shopping Item</sys_name>
+        <sys_package display_value="Shopping List" source="x_422511_shopping">4b3d817b078a801011f6fa7f7c1ed086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">4b3d817b078a801011f6fa7f7c1ed086</sys_scope>
+        <sys_update_name>sys_sg_data_item_c6af417307ca801011f6fa7f7c1ed060</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-06 18:29:16</sys_updated_on>
+        <table>x_422511_shopping_shopping_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=c6af417307ca801011f6fa7f7c1ed060"/>
+</record_update>
